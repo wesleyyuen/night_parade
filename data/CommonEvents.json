@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":356,"indent":0,"parameters":["Fire radiusgrow 400 #FFAAAA"]},{"code":121,"indent":0,"parameters":[1,1,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Lantern On","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":230,"indent":0,"parameters":[600]},{"code":230,"indent":0,"parameters":[600]},{"code":230,"indent":0,"parameters":[600]},{"code":356,"indent":0,"parameters":["Fire radiusgrow 20 #FFAAAA"]},{"code":101,"indent":0,"parameters":["",0,1,2]},{"code":401,"indent":0,"parameters":["The lantern light is fading..."]},{"code":121,"indent":0,"parameters":[1,1,1]},{"code":230,"indent":0,"parameters":[240]},{"code":111,"indent":0,"parameters":[0,1,1]},{"code":101,"indent":1,"parameters":["",0,1,2]},{"code":401,"indent":1,"parameters":["The last flickering flame of your lantern faded..."]},{"code":250,"indent":1,"parameters":[{"name":"Devil2","volume":35,"pitch":100,"pan":0}]},{"code":230,"indent":1,"parameters":[40]},{"code":250,"indent":1,"parameters":[{"name":"Scream","volume":20,"pitch":110,"pan":0}]},{"code":353,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Lantern Timer","switchId":1,"trigger":2},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
